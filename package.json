@@ -1,0 +1,22 @@
+{
+    "name": "labas",
+    "version": "1.0.0",
+    "description": "Projekts JS",
+    "main": "index.js",
+    "scripts": {
+      "ndtest":"node --watch ./ndtest.js",
+      "uzd":"node --watch ./uzd.js",
+        "wSchool":"node --watch ./wSchool.js",
+        "index":"node --watch ./index.js",
+        "test2":"node --watch ./test2.js",
+      "js":"node  ./index.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "noriu",
+      "kebabo"
+    ],
+    "author": "SympTom-ai https://github.com/SympTom-ai",
+    "license": "MIT"
+  }
+  
